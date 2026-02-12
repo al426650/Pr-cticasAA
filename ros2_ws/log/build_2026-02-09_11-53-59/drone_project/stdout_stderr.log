@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/drone_project/drone_project.egg-info/PKG-INFO
+writing dependency_links to ../../build/drone_project/drone_project.egg-info/dependency_links.txt
+writing entry points to ../../build/drone_project/drone_project.egg-info/entry_points.txt
+writing requirements to ../../build/drone_project/drone_project.egg-info/requires.txt
+writing top-level names to ../../build/drone_project/drone_project.egg-info/top_level.txt
+reading manifest file '../../build/drone_project/drone_project.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/drone_project/drone_project.egg-info/SOURCES.txt'
+running build
+running build_py
+copying drone_project/mission_planner_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+copying drone_project/interface_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+running install
+running install_lib
+copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/mission_planner_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/interface_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/mission_planner_node.py to mission_planner_node.cpython-312.pyc
+byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/interface_node.py to interface_node.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/drone_project/drone_project.egg-info to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project-0.0.0-py3.12.egg-info
+running install_scripts
+Installing interface_node script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+Installing isaac_ardu_bridge script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+Installing isaac_json_backend script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+Installing mission_control_node script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+writing list of installed files to '/home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/install.log'

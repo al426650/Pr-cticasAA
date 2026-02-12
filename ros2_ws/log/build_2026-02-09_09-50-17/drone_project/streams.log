@@ -1,0 +1,52 @@
+[0.455s] Invoking command in '/home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/src/drone_project': DEBUGINFOD_URLS=ima:enforcing https://debuginfod.fedoraproject.org/ ima:ignore PYTHONPATH=/home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/drone_project build --build-base /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build install --record /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/install.log --single-version-externally-managed install_data
+[0.595s] running egg_info
+[0.595s] creating ../../build/drone_project/drone_project.egg-info
+[0.606s] writing ../../build/drone_project/drone_project.egg-info/PKG-INFO
+[0.606s] writing dependency_links to ../../build/drone_project/drone_project.egg-info/dependency_links.txt
+[0.606s] writing entry points to ../../build/drone_project/drone_project.egg-info/entry_points.txt
+[0.606s] writing requirements to ../../build/drone_project/drone_project.egg-info/requires.txt
+[0.606s] writing top-level names to ../../build/drone_project/drone_project.egg-info/top_level.txt
+[0.606s] writing manifest file '../../build/drone_project/drone_project.egg-info/SOURCES.txt'
+[0.625s] reading manifest file '../../build/drone_project/drone_project.egg-info/SOURCES.txt'
+[0.625s] adding license file 'LICENSE'
+[0.626s] writing manifest file '../../build/drone_project/drone_project.egg-info/SOURCES.txt'
+[0.626s] running build
+[0.626s] running build_py
+[0.626s] creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build
+[0.626s] creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib
+[0.626s] creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+[0.626s] copying drone_project/__init__.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+[0.626s] copying drone_project/interface_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+[0.626s] copying drone_project/mission_planner_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+[0.626s] copying drone_project/bridge_ardupilot.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+[0.626s] copying drone_project/isaac_json_backend.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+[0.626s] running install
+[0.630s] running install_lib
+[0.639s] creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+[0.639s] copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/__init__.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+[0.639s] copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/interface_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+[0.640s] copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/mission_planner_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+[0.640s] copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/bridge_ardupilot.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+[0.640s] copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/isaac_json_backend.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+[0.640s] byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/__init__.py to __init__.cpython-312.pyc
+[0.640s] byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/interface_node.py to interface_node.cpython-312.pyc
+[0.641s] byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/mission_planner_node.py to mission_planner_node.cpython-312.pyc
+[0.642s] byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/bridge_ardupilot.py to bridge_ardupilot.cpython-312.pyc
+[0.643s] byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/isaac_json_backend.py to isaac_json_backend.cpython-312.pyc
+[0.644s] running install_data
+[0.644s] creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/ament_index
+[0.644s] creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/ament_index/resource_index
+[0.644s] creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/ament_index/resource_index/packages
+[0.644s] copying resource/drone_project -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/ament_index/resource_index/packages
+[0.644s] copying package.xml -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/drone_project
+[0.644s] creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/drone_project/launch
+[0.644s] copying launch/mission_nodes.launch.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/drone_project/launch
+[0.644s] running install_egg_info
+[0.654s] Copying ../../build/drone_project/drone_project.egg-info to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project-0.0.0-py3.12.egg-info
+[0.655s] running install_scripts
+[0.729s] Installing interface_node script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+[0.729s] Installing isaac_ardu_bridge script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+[0.729s] Installing isaac_json_backend script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+[0.729s] Installing mission_control_node script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+[0.729s] writing list of installed files to '/home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/install.log'
+[0.748s] Invoked command in '/home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/src/drone_project' returned '0': DEBUGINFOD_URLS=ima:enforcing https://debuginfod.fedoraproject.org/ ima:ignore PYTHONPATH=/home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/drone_project build --build-base /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build install --record /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/install.log --single-version-externally-managed install_data

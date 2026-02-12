@@ -1,0 +1,5 @@
+[console_scripts]
+interface_node = drone_project.interface_node:main
+isaac_ardu_bridge = drone_project.bridge_ardupilot:main
+isaac_json_backend = drone_project.isaac_json_backend:main
+mission_control_node = drone_project.mission_planner_node:main

@@ -1,0 +1,50 @@
+running egg_info
+creating ../../build/drone_project/drone_project.egg-info
+writing ../../build/drone_project/drone_project.egg-info/PKG-INFO
+writing dependency_links to ../../build/drone_project/drone_project.egg-info/dependency_links.txt
+writing entry points to ../../build/drone_project/drone_project.egg-info/entry_points.txt
+writing requirements to ../../build/drone_project/drone_project.egg-info/requires.txt
+writing top-level names to ../../build/drone_project/drone_project.egg-info/top_level.txt
+writing manifest file '../../build/drone_project/drone_project.egg-info/SOURCES.txt'
+reading manifest file '../../build/drone_project/drone_project.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/drone_project/drone_project.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build
+creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib
+creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+copying drone_project/__init__.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+copying drone_project/interface_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+copying drone_project/mission_planner_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+copying drone_project/bridge_ardupilot.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+copying drone_project/isaac_json_backend.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project
+running install
+running install_lib
+creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/__init__.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/interface_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/mission_planner_node.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/bridge_ardupilot.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+copying /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/build/lib/drone_project/isaac_json_backend.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project
+byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/interface_node.py to interface_node.cpython-312.pyc
+byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/mission_planner_node.py to mission_planner_node.cpython-312.pyc
+byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/bridge_ardupilot.py to bridge_ardupilot.cpython-312.pyc
+byte-compiling /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project/isaac_json_backend.py to isaac_json_backend.cpython-312.pyc
+running install_data
+creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/ament_index
+creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/ament_index/resource_index
+creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/ament_index/resource_index/packages
+copying resource/drone_project -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/ament_index/resource_index/packages
+copying package.xml -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/drone_project
+creating /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/drone_project/launch
+copying launch/mission_nodes.launch.py -> /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/share/drone_project/launch
+running install_egg_info
+Copying ../../build/drone_project/drone_project.egg-info to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/python3.12/site-packages/drone_project-0.0.0-py3.12.egg-info
+running install_scripts
+Installing interface_node script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+Installing isaac_ardu_bridge script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+Installing isaac_json_backend script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+Installing mission_control_node script to /home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/install/drone_project/lib/drone_project
+writing list of installed files to '/home/jorge/Documentos/GitHub/RobotsAereosYSubmarinos/proyecto_drone/ros2_ws/build/drone_project/install.log'
