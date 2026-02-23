@@ -77,7 +77,7 @@ class InterfaceNode(Node):
     def takeoff_callback(self, request, response):
         if request.data:
             # Altura segura y estándar
-            altitude = 3.0 
+            altitude = 10 
             
             self.get_logger().info(f"🛫 Iniciando DESPEGUE a {altitude}m...")
             
